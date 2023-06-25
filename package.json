@@ -1,0 +1,7 @@
+{
+    "name": "webpack-library-split-chunks",
+    "workspaces": [
+        "a",
+        "b"
+    ]
+}
